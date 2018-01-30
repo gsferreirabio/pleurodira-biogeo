@@ -1,0 +1,40 @@
+#NEXUS
+
+[File saved Wed Jan 24 19:01:06 2018]
+
+
+BEGIN TREES;
+	TRANSLATE
+		1	Linderochelys_rinconensis,
+		2	Lomalatachelys_neuquina,
+		3	Palaeophrynops_patagonicus,
+		4	Salamanchelys_palaeocenica,
+		5	Emydura_subglobosa,
+		6	Birlimarr_gaffneyi,
+		7	Pseudemydura_umbrina,
+		8	Mesoclemmys_nasuta,
+		9	Chelus_colombianus,
+		10	Chelodina_murrayi,
+		11	Bonapartemys_bajobarrealis,
+		12	Prochelidella_portezuelae,
+		13	Prochelidella_cerrobarcinae,
+		14	Hydromedusa_casamayorensis,
+		15	Araripemys_barretoi,
+		16	Laganemys_tenerensis,
+		17	Dirqadim_schaefferi,
+		18	Euraxemys_essweini,
+		19	Pelomedusa_subrufa,
+		20	Sokatra_antitra,
+		21	Atolchelys_lepida,
+		22	Arenila_krebsi,
+		23	Galianemys_whitei,
+		24	Cearachelys_placidoi,
+		25	Kinkonychelys_rogersi,
+		26	Kurmademys_kallamedensis,
+		27	Brasilemys_josai,
+		28	Hamadachelys_escuilliei,
+		29	Platychelys_oberndorferi,
+		30	Notoemys_laticentralis
+		;
+	TREE * Imported tree 1+= (((1,(2,(3,(4,(5,(6,(7,(8,(9,(10,(14,(11,(12,13))))))))))))),(((15,16),(17,18)),(19,(20,(21,((26,(25,(22,(23,24)))),(27,28))))))),(29,30));
+ENDBLOCK;

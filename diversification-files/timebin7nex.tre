@@ -1,0 +1,304 @@
+#NEXUS
+
+[File saved Mon Feb 20 16:35:09 2017]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 144;
+	TAXLABELS
+		Linderochelys_rinconensis
+		Lomalatachelys_neuquina
+		Palaeophrynops_patagonicus
+		Salamanchelys_palaeocenica
+		Emydura_subglobosa
+		Elseya_dentata
+		Rheodytes_devisi
+		Rheodytes_leukops
+		Emydura_macquarii
+		Elseya_georgesi
+		Elseya_latisternum
+		Elusor_macrurus
+		Elseya_purvisi
+		Myuchelys_latisternum
+		Elseya_lavarackorum
+		Elseya_uberrima
+		Elseya_nadibajagu
+		Birlimarr_gaffneyi
+		Pseudemydura_umbrina
+		Acanthochelys_radiolata
+		Acanthochelys_spixii
+		Acanthochelys_macrocephala
+		Acanthochelys_pallidipectoris
+		Acanthochelys_cosquinensis
+		Platemys_platicephala
+		Mesoclemmys_nasuta
+		Mesoclemmys_gibba
+		Mesoclemmys_hogei
+		Phrynops_paraensis
+		Phrynops_williamsi
+		Phrynops_hilarii
+		Phrynops_geoffroanus
+		Chelus_colombianus
+		Chelus_fimbriatus
+		Chelodina_oblonga
+		Chelodina_longicollis
+		Chelodina_rugosa
+		Chelodina_insculpta
+		Chelodina_alanrixi
+		Chelodina_murrayi
+		Yaminuechelys_maior
+		Yaminuechelys_gasparinii
+		Bonapartemys_bajobarrealis
+		Prochelidella_portezuelae
+		Prochelidella_argentinae
+		Prochelidella_cerrobarcinae
+		Hydromedusa_casamayorensis
+		Hydromedusa_maximilliani
+		Hydromedusa_tectifera
+		Araripemys_barretoi
+		Laganemys_tenerensis
+		Dirqadim_schaefferi
+		Euraxemys_essweini
+		Pelusios_sinuatus
+		Pelusios_subniger
+		Pelusios_castanoides
+		Pelusios_williamsi
+		Pelusios_castaneus
+		Pelusios_gabonensis
+		Pelomedusa_subrufa
+		Sokatra_antitra
+		Atolchelys_lepida
+		Foxemys_mechinorum
+		Foxemys_trabanti
+		Puentemys_mushaisaensis
+		Polysternon_provinciale
+		Paiutemys_tibert
+		Elochelys_convenarum
+		Elochelys_perfecta
+		Rosasia_soutoi
+		Zolhafah_bella
+		Araiochelys_hirayamen
+		Chedighaii_hutchisoni
+		Chedighaii_barberi
+		Bothremys_maghrebiana
+		Bothremys_cooki
+		Bothremys_kellyi
+		Bothremys_arabicus
+		Arenila_krebsi
+		Nigeremys_gigantea
+		Taphrosphys_ippolitoi
+		Taphrosphys_sulcatus
+		Taphrosphys_congolensis
+		Phosphatochelys_tedfordi
+		Ummulisani_rutgersensis
+		Rhothonemys_brinkmani
+		Labrostochelys_galkini
+		Azabbaremys_moragjonesi
+		Acleistochelys_maliensis
+		Galianemys_emringeri
+		Galianemys_whitei
+		Cearachelys_placidoi
+		Kinkonychelys_rogersi
+		Kurmademys_kallamedensis
+		Sankuchemys_sethnai
+		Brasilemys_josai
+		Hamadachelys_escuilliei
+		Portezueloemys_patagonica
+		Cambaremys_langertoni
+		Bauruemys_elegans
+		Peiropemys_mezzalirai
+		Lapparentemys_vilavilensis
+		Pricemys_caiera
+		Caninemys_tridentata
+		Cerrejonemys_wayuunaiki
+		Podocnemis_expansa
+		Podocnemis_vogli
+		Podocnemis_unifilis
+		Podocnemis_lewyana
+		Podocnemis_erythrocephala
+		Podocnemis_bassleri
+		Podocnemis_sextuberculata
+		Stupendemys_geographicus
+		Carbonemys_cofrinii
+		UCMP_42008
+		Dacquemys_paleomorpha
+		Neochelys_franzeni
+		Neochelys_arenarum
+		Neochelys_capellinii
+		Neochelys_liriae
+		Erymnochelys_madagascariensis
+		Turkanemys_pattersoni
+		Neochelys_fajumensis
+		Kenyemys_williamsi
+		Neochelys_salmanticensis
+		Neochelys_zamorensis
+		Neochelys_eaocaenica
+		Papoulemys_laurenti
+		Peltocephalus_dumerilianus
+		Mogharemys_blackenhorni
+		Cordichelys_antiqua
+		Latentemys_plowdeni
+		Bairdemys_healeyorum
+		Lemurchelys_diasphax
+		Stereogenys_cromeri
+		Shweboemys_pilgrimi
+		Brontochelys_gaffneyi
+		Bairdemys_winklerae
+		Bairdemys_hartsteini
+		Bairdemys_sanchezi
+		Bairdemys_venezuelensis
+		Bairdemys_thalassica
+		Platychelys_oberndorferi
+		Notoemys_laticentralis
+		;
+ENDBLOCK;
+
+
+BEGIN TREES;
+	TRANSLATE
+		1	Linderochelys_rinconensis,
+		2	Lomalatachelys_neuquina,
+		3	Palaeophrynops_patagonicus,
+		4	Salamanchelys_palaeocenica,
+		5	Emydura_subglobosa,
+		6	Elseya_dentata,
+		7	Rheodytes_devisi,
+		8	Rheodytes_leukops,
+		9	Emydura_macquarii,
+		10	Elseya_georgesi,
+		11	Elseya_latisternum,
+		12	Elusor_macrurus,
+		13	Elseya_purvisi,
+		14	Myuchelys_latisternum,
+		15	Elseya_lavarackorum,
+		16	Elseya_uberrima,
+		17	Elseya_nadibajagu,
+		18	Birlimarr_gaffneyi,
+		19	Pseudemydura_umbrina,
+		20	Acanthochelys_radiolata,
+		21	Acanthochelys_spixii,
+		22	Acanthochelys_macrocephala,
+		23	Acanthochelys_pallidipectoris,
+		24	Acanthochelys_cosquinensis,
+		25	Platemys_platicephala,
+		26	Mesoclemmys_nasuta,
+		27	Mesoclemmys_gibba,
+		28	Mesoclemmys_hogei,
+		29	Phrynops_paraensis,
+		30	Phrynops_williamsi,
+		31	Phrynops_hilarii,
+		32	Phrynops_geoffroanus,
+		33	Chelus_colombianus,
+		34	Chelus_fimbriatus,
+		35	Chelodina_oblonga,
+		36	Chelodina_longicollis,
+		37	Chelodina_rugosa,
+		38	Chelodina_insculpta,
+		39	Chelodina_alanrixi,
+		40	Chelodina_murrayi,
+		41	Yaminuechelys_maior,
+		42	Yaminuechelys_gasparinii,
+		43	Bonapartemys_bajobarrealis,
+		44	Prochelidella_portezuelae,
+		45	Prochelidella_argentinae,
+		46	Prochelidella_cerrobarcinae,
+		47	Hydromedusa_casamayorensis,
+		48	Hydromedusa_maximilliani,
+		49	Hydromedusa_tectifera,
+		50	Araripemys_barretoi,
+		51	Laganemys_tenerensis,
+		52	Dirqadim_schaefferi,
+		53	Euraxemys_essweini,
+		54	Pelusios_sinuatus,
+		55	Pelusios_subniger,
+		56	Pelusios_castanoides,
+		57	Pelusios_williamsi,
+		58	Pelusios_castaneus,
+		59	Pelusios_gabonensis,
+		60	Pelomedusa_subrufa,
+		61	Sokatra_antitra,
+		62	Atolchelys_lepida,
+		63	Foxemys_mechinorum,
+		64	Foxemys_trabanti,
+		65	Puentemys_mushaisaensis,
+		66	Polysternon_provinciale,
+		67	Paiutemys_tibert,
+		68	Elochelys_convenarum,
+		69	Elochelys_perfecta,
+		70	Rosasia_soutoi,
+		71	Zolhafah_bella,
+		72	Araiochelys_hirayamen,
+		73	Chedighaii_hutchisoni,
+		74	Chedighaii_barberi,
+		75	Bothremys_maghrebiana,
+		76	Bothremys_cooki,
+		77	Bothremys_kellyi,
+		78	Bothremys_arabicus,
+		79	Arenila_krebsi,
+		80	Nigeremys_gigantea,
+		81	Taphrosphys_ippolitoi,
+		82	Taphrosphys_sulcatus,
+		83	Taphrosphys_congolensis,
+		84	Phosphatochelys_tedfordi,
+		85	Ummulisani_rutgersensis,
+		86	Rhothonemys_brinkmani,
+		87	Labrostochelys_galkini,
+		88	Azabbaremys_moragjonesi,
+		89	Acleistochelys_maliensis,
+		90	Galianemys_emringeri,
+		91	Galianemys_whitei,
+		92	Cearachelys_placidoi,
+		93	Kinkonychelys_rogersi,
+		94	Kurmademys_kallamedensis,
+		95	Sankuchemys_sethnai,
+		96	Brasilemys_josai,
+		97	Hamadachelys_escuilliei,
+		98	Portezueloemys_patagonica,
+		99	Cambaremys_langertoni,
+		100	Bauruemys_elegans,
+		101	Peiropemys_mezzalirai,
+		102	Lapparentemys_vilavilensis,
+		103	Pricemys_caiera,
+		104	Caninemys_tridentata,
+		105	Cerrejonemys_wayuunaiki,
+		106	Podocnemis_expansa,
+		107	Podocnemis_vogli,
+		108	Podocnemis_unifilis,
+		109	Podocnemis_lewyana,
+		110	Podocnemis_erythrocephala,
+		111	Podocnemis_bassleri,
+		112	Podocnemis_sextuberculata,
+		113	Stupendemys_geographicus,
+		114	Carbonemys_cofrinii,
+		115	UCMP_42008,
+		116	Dacquemys_paleomorpha,
+		117	Neochelys_franzeni,
+		118	Neochelys_arenarum,
+		119	Neochelys_capellinii,
+		120	Neochelys_liriae,
+		121	Erymnochelys_madagascariensis,
+		122	Turkanemys_pattersoni,
+		123	Neochelys_fajumensis,
+		124	Kenyemys_williamsi,
+		125	Neochelys_salmanticensis,
+		126	Neochelys_zamorensis,
+		127	Neochelys_eaocaenica,
+		128	Papoulemys_laurenti,
+		129	Peltocephalus_dumerilianus,
+		130	Mogharemys_blackenhorni,
+		131	Cordichelys_antiqua,
+		132	Latentemys_plowdeni,
+		133	Bairdemys_healeyorum,
+		134	Lemurchelys_diasphax,
+		135	Stereogenys_cromeri,
+		136	Shweboemys_pilgrimi,
+		137	Brontochelys_gaffneyi,
+		138	Bairdemys_winklerae,
+		139	Bairdemys_hartsteini,
+		140	Bairdemys_sanchezi,
+		141	Bairdemys_venezuelensis,
+		142	Bairdemys_thalassica,
+		143	Platychelys_oberndorferi,
+		144	Notoemys_laticentralis
+		;
+	UTREE * PHYLIP_1= (((1,(2,(3,(4,(5,((18,((14,(((6,(7,8)),(9,(10,11))),(12,13))),(17,(15,16)))),(19,(((25,(24,(20,(21,(22,23))))),((26,27),(28,(29,(30,(31,32)))))),((33,34),((40,(39,(38,(37,(35,36))))),(((43,(41,42)),(46,(44,45))),(47,(48,49))))))))))))),(((50,51),(52,53)),((60,((54,55),(59,(58,(56,57))))),(61,(62,(((93,(((((67,(66,(65,(63,64)))),(68,69)),(70,(71,(72,((73,74),((75,76),(77,78))))))),((79,80),(89,(88,(87,((83,(81,82)),(86,(84,85)))))))),(92,(90,91)))),(94,95)),(96,(97,(98,(99,(100,((101,(102,103)),((104,(105,(106,(107,((108,(109,110)),(111,112)))))),(((113,114),(115,116)),(((((117,118),(119,120)),(121,122)),(123,(124,((125,126),(127,128))))),(129,(130,(131,(132,(133,((137,(134,(135,136))),(138,(139,(140,(141,142))))))))))))))))))))))))),(143,144));
+ENDBLOCK;
